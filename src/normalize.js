@@ -42,6 +42,7 @@
             case 'ó':
             case 'õ':
             case 'ô':
+            case 'ō':
                 return 'o';
 
             case 'ś':
